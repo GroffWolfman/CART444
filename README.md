@@ -12,13 +12,13 @@
        <a href="/Nightshot/">NightShot</a>
     </h3>
     <p>
-      My Spin on the "Brick Breaker" game
+      My Spin on the "Brick Breaker" game/genre
    </p>
    <h3>
        <a href="/SelfScape/">SelfScape</a>
     </h3>
     <p>
-      Swarming agents that told the story of me
+      Another white dude influencing an entire simulated culture.
    </p>
    <h3>
        <a href="/Loop/">VoidLoop</a>
@@ -36,5 +36,5 @@
        <a href="/3D/">3D Diorama</a>
     </h3>
     <p>
-      Big Robot
+      Isometric Diorama trying to achieve depth
    </p>
