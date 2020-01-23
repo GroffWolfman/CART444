@@ -13,6 +13,6 @@
 The project was a technical success in the end as a diorama had been created in a way that I was content with. However, in terms of theming and messaging, the project was a bit of a failure. When shown without context, the initial reaction is that the piece is "creepy" or "scary" when the desired theme was playful and possibly funny.
 </p>
 
-![Progress](/3D/FinalRender/RobotCollect.png)
+![Progress](/3D/FinalRender/RobotCollect.PNG)
 
-![CloseUps](/3D/FinalRender/closeups.png)
+![CloseUps](/3D/FinalRender/closeups.PNG)
