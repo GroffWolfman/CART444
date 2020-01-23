@@ -4,7 +4,7 @@ NightShot
 <a href="/Nightshot/NightShotTheGame/index.html">Play It Here</a>
 
 
-![Launch](/Nightshot/Images/Launch.png)
+![Launch](/Nightshot/Stills/still4.png)
 
 
 
