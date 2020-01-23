@@ -9,6 +9,12 @@
       A generative art project focusing on independent agents and the contribution of individuals
    </p>
    <h3>
+       <a href="/Nightshot/">NightShot</a>
+    </h3>
+    <p>
+      My Spin on the "Brick Breaker" game
+   </p>
+   <h3>
        <a href="/SelfScape/">SelfScape</a>
     </h3>
     <p>
