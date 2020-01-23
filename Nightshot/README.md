@@ -20,5 +20,5 @@ Overall the project was a success and remains one of the more challenging but sa
 
 ![Launch](/Nightshot/Stills/mainmenu.PNG)
 ![Launch](/Nightshot/Stills/still3.png)
-![Launch](/Nightshot/Stills/still6.png)
+![Launch](/Nightshot/Stills/still6.PNG)
 ![Launch](/Nightshot/Stills/still2.png)
