@@ -1,0 +1,31 @@
+.column {
+  float: left;
+  width: 50%;
+}
+
+.left1 {
+background-color: #FFF775;
+
+}
+
+.left2 {
+background-color: #6640B3;
+
+}
+.left3 {
+background-color: #A475FF;
+
+}
+
+.right {
+  background-color: #6C807C;
+
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
